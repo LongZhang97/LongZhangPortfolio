@@ -28,4 +28,4 @@ This portfolio consists of 5 projects. Specifically,
 **[Project4]** used linear regression and single-hidden-layer neural network to **predict a user's viewport trajectory when watching a 360 video**, given different conditions, including whether use gaze data, different durations of prediction window and history window, and latitude position prediction or longitude position prediction. The [final result]([Project4.2]ViewportPrediction.png) is visualized in the .png file and the [detailed introduction]([Project4.1]ViewportPredictionCode.ipynb) is included in the .ipynb file.
 
 ## *Project5： Linked Micromap Plots for a Collection of Geographic Areas*
-**[Project5]** is a [Linked Micromap plot visualization project]([Project5]LinkedMicromapVisualization.pdf).
+**[Project5]** visualized [the Murder Rate(MR) and the Percent Change of MR in the United States in 2018 per State]([Project5]LinkedMicromapVisualization.pdf).
