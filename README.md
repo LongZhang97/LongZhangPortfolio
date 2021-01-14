@@ -3,7 +3,7 @@
 
 This portfolio consists of 5 projects. Specifically, 
 
-## *Classification Predictive Analysis for Fraud Claim Detection of Auto Insurance*
+## *Project1： Regression Predictive Analysis for the Pricing of Residential Houses in Ames*
 **[Project1]** used multiple feature-selection-based linear regression models and tree-based regression models to **predict house prices**. One file is the [final report]([Project1.2]PredictingHousePrices_Report.pdf) and the other one is the [presentation slides]([Project1.1]PredictingHousePrices_Slides.pdf).
 
 > - Used 𝑑𝑝𝑙𝑦𝑟 and 𝑡𝑖𝑑𝑦𝑟 packages (𝑅 language) for data cleaning and feature engineering.
@@ -11,6 +11,7 @@ This portfolio consists of 5 projects. Specifically,
 > - Tuned hyperparameters using 10-fold cross validation; Visualized the hyperparameter tuning using ggplot2.
 > - Received a RMSE of 0.1428 on validation set on Kaggle and 98 points out of 100 in the class.
 
+## *Project2： Classification Predictive Analysis for Fraud Claim Detection of Auto Insurance*
 **[Project2]** used 5 linear classification models and 8 non-linear classification models to **predict whether an insurance claim is fraud or not**. One file is the [final report]([Project2.2]AutoInsuranceFraudClaimsDetection_Report.pdf) and the other one is the [presentation slides]([Project2.1]AutoInsuranceFraudClaimsDetection_Slides.pdf).
 
 > - Selected and generated predictors from raw data; Explored and visualized relationships between predictors and response variable.
@@ -20,9 +21,11 @@ This portfolio consists of 5 projects. Specifically,
 > - Tuned hyperparameters using 10-fold cross validation.
 > - Best model: Gradient Boosting Tree with an alternate cutoff of 0.25. AUC = 0.8849, Sensitivity:0.86, Specificity:0.87.
 
-
+## *Project3： Regression Predictive Analysis for the Pricing of Airbnb*
 **[Project3]** used multiple linear regression, KNN, single-hidden-layer neural network, averaged neural network, regression tree, and random forest models to **predict airbnb prices**. One file is the [final report]([Project3.2]AirbnbPredictionReport.pdf) and the other one is the [presentation slides]([Project3.1]AirbnbPredictionSlides.pdf). All algorithms are manually derived in the final report.
 
+## *Project4： Viewport Trajectory Prediction for the 360 Video*
 **[Project4]** used linear regression and single-hidden-layer neural network to **predict a user's viewport trajectory when watching a 360 video**, given different conditions, including whether use gaze data, different durations of prediction window and history window, and latitude position prediction or longitude position prediction. The [final result]([Project4.2]ViewportPrediction.png) is visualized in the .png file and the [detailed introduction]([Project4.1]ViewportPredictionCode.ipynb) is included in the .ipynb file.
 
-**[Project5]** is a [Micromap visualization project]([Project5]LinkedMicromapVisualization.pdf).
+## *Project5： Linked Micromap Plots for a Collection of Geographic Areas*
+**[Project5]** is a [Linked Micromap plot visualization project]([Project5]LinkedMicromapVisualization.pdf).
