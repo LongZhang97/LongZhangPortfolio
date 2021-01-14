@@ -1,6 +1,6 @@
 This repository consists of 5 projects. Specifically, 
 
-**[Project1]** used multiple feature-selection-based linear regression models and tree-based regression models to **predict house prices**. One file is the [final report]() and the other one is the presentation slides.
+**[Project1]** used multiple feature-selection-based linear regression models and tree-based regression models to **predict house prices**. One file is the [final report]([Project1.2]PredictingHousePrices_Report.pdf) and the other one is the presentation slides.
 
 **[Project2]** used 5 linear classification models and 7 non-linear classification models to **predict whether an insurance claim is fraud or not**. One file is the final report and the other one is the presentation slides.
 
