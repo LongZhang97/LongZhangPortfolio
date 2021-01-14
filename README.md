@@ -9,12 +9,12 @@ This portfolio consists of 5 projects. Specifically,
 
 **[Project2]** used 5 linear classification models and 8 non-linear classification models to **predict whether an insurance claim is fraud or not**. One file is the [final report]([Project2.2]AutoInsuranceFraudClaimsDetection_Report.pdf) and the other one is the [presentation slides]([Project2.1]AutoInsuranceFraudClaimsDetection_Slides.pdf).
 
-- Selected and generated predictors from raw data; Explored and visualized relationships between predictors and response variable.
-- Applied up-sampling method and alternate cutoff method to improve the negative effect of imbalanced data.
-- Built 5 linear models, including LDA, Sparse LDA, PLS-DA, Logistic Regression, and penalized Logistic Regression.
-- Built 8 nonlinear models, including MDA, Neural Network, Averaged Neural Network, SVM, KNN, Decision Tree, Random Forest, and Gradient Boosting Tree.
-- Tuned hyperparameters using 10-fold cross validation.
-- Best model: Gradient Boosting Tree with an alternate cutoff of 0.25. AUC = 0.8849, Sensitivity:0.86, Specificity:0.87.
+> - Selected and generated predictors from raw data; Explored and visualized relationships between predictors and response variable.
+> - Applied up-sampling method and alternate cutoff method to improve the negative effect of imbalanced data.
+> - Built 5 linear models, including LDA, Sparse LDA, PLS-DA, Logistic Regression, and penalized Logistic Regression.
+> - Built 8 nonlinear models, including MDA, Neural Network, Averaged Neural Network, SVM, KNN, Decision Tree, Random Forest, and Gradient Boosting Tree.
+> - Tuned hyperparameters using 10-fold cross validation.
+> - Best model: Gradient Boosting Tree with an alternate cutoff of 0.25. AUC = 0.8849, Sensitivity:0.86, Specificity:0.87.
 
 
 **[Project3]** used multiple linear regression, KNN, single-hidden-layer neural network, averaged neural network, regression tree, and random forest models to **predict airbnb prices**. One file is the [final report]([Project3.2]AirbnbPredictionReport.pdf) and the other one is the [presentation slides]([Project3.1]AirbnbPredictionSlides.pdf). All algorithms are manually derived in the final report.
