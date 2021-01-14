@@ -2,10 +2,10 @@ This portfolio consists of 5 projects. Specifically,
 
 **[Project1]** used multiple feature-selection-based linear regression models and tree-based regression models to **predict house prices**. One file is the [final report]([Project1.2]PredictingHousePrices_Report.pdf) and the other one is the [presentation slides]([Project1.1]PredictingHousePrices_Slides.pdf).
 
-- Used 𝑑𝑝𝑙𝑦𝑟 and 𝑡𝑖𝑑𝑦𝑟 packages (𝑅 language) for data cleaning and feature engineering.
-- Built linear regression model based on forward stepwise feature selection, lasso regression, pruned decision tree, and random forest to forecast house prices.
-- Tuned hyperparameters using 10-fold cross validation; Visualized the hyperparameter tuning using ggplot2.
-- Received a RMSE of 0.1428 on validation set on Kaggle and 98 points out of 100 in the class.
+> - Used 𝑑𝑝𝑙𝑦𝑟 and 𝑡𝑖𝑑𝑦𝑟 packages (𝑅 language) for data cleaning and feature engineering.
+> - Built linear regression model based on forward stepwise feature selection, lasso regression, pruned decision tree, and random forest to forecast house prices.
+> - Tuned hyperparameters using 10-fold cross validation; Visualized the hyperparameter tuning using ggplot2.
+> - Received a RMSE of 0.1428 on validation set on Kaggle and 98 points out of 100 in the class.
 
 **[Project2]** used 5 linear classification models and 8 non-linear classification models to **predict whether an insurance claim is fraud or not**. One file is the [final report]([Project2.2]AutoInsuranceFraudClaimsDetection_Report.pdf) and the other one is the [presentation slides]([Project2.1]AutoInsuranceFraudClaimsDetection_Slides.pdf).
 
